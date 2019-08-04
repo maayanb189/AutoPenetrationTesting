@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="images"/>
+	<classpathentry kind="lib" path="C:/Users/מעיין בוארון/Downloads/jar_files/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/מעיין בוארון/Downloads/jar_files/jackson-core-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/מעיין בוארון/Downloads/jar_files/jackson-databind-2.9.8.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/מעיין בוארון/Downloads/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/מעיין בוארון/Downloads/jar_files (1)/mongo-java-driver-3.11.0-beta3.jar"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
